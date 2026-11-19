@@ -1,0 +1,22 @@
+{
+  "created_by": "trader-entry",
+  "symbol": "NVDA",
+  "setup": "orb",
+  "side": "buy",
+  "date": "2026-11-19",
+  "status": "waiting",
+  "time": null,
+  "bar_start": null,
+  "bar_index": null,
+  "price": null,
+  "level": 158.1,
+  "interval": "5m",
+  "opening_range": {
+    "high": 158.1,
+    "low": 152.55,
+    "minutes": 15
+  },
+  "source": "yahoo",
+  "checked_at": "2026-11-19T16:30:58Z",
+  "reason": "last close $153.24 (11:25 bar), $4.86 under the range high $158.10 (-3.07%)"
+}
