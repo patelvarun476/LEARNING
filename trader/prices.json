@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-11-20T20:12:42Z",
+  "as_of": "2026-11-20T20:28:43Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills. detail.fetched is when each price was read.",
   "prices": {
-    "TSM": 319.755
+    "TSM": 321.52
   },
   "detail": {
     "TSM": {
       "prev_close": 352.09,
-      "time": "2026-11-20T20:12:40Z",
+      "time": "2026-11-20T20:28:42Z",
       "source": "yahoo",
-      "fetched": "2026-11-20T20:12:42Z"
+      "fetched": "2026-11-20T20:28:43Z"
     }
   }
 }
