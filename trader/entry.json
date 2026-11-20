@@ -1,22 +1,22 @@
 {
   "created_by": "trader-entry",
-  "symbol": "NVDA",
-  "setup": "orb",
+  "symbol": "TSM",
+  "setup": "level",
   "side": "buy",
-  "date": "2026-11-19",
-  "status": "waiting",
-  "time": null,
-  "bar_start": null,
-  "bar_index": null,
-  "price": null,
-  "level": 158.1,
+  "date": "2026-11-20",
+  "status": "triggered",
+  "time": "9:55 AM",
+  "bar_start": "09:50",
+  "bar_index": 4,
+  "price": 341.78,
+  "level": 339.56,
   "interval": "5m",
   "opening_range": {
-    "high": 158.1,
-    "low": 152.55,
+    "high": 339.56,
+    "low": 335.23,
     "minutes": 15
   },
   "source": "yahoo",
-  "checked_at": "2026-11-19T16:30:58Z",
-  "reason": "last close $153.24 (11:25 bar), $4.86 under the range high $158.10 (-3.07%)"
+  "checked_at": "2026-11-20T18:11:56Z",
+  "reason": "the 9:50 bar closed above the level"
 }

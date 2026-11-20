@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "id": "tsm-above-339.56",
+      "symbol": "TSM",
+      "type": "above",
+      "price": 339.56
+    }
+  ]
+}
