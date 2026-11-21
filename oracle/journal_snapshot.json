@@ -39,32 +39,6 @@
   "notes": ""
  },
  {
-  "id": "rec4TZngNFOhO2r1k",
-  "ticker": "AMDL",
-  "entry_date": null,
-  "entry": null,
-  "shares": null,
-  "exit_date": "2026-11-16",
-  "exit": null,
-  "pnl": null,
-  "exit_rule": "Binary Macro Exit",
-  "setup": "Leveraged ETF",
-  "notes": "Fill entry/exit prices from brokerage history."
- },
- {
-  "id": "rec4VD8Wdp0BzR7dS",
-  "ticker": "SMCI",
-  "entry_date": null,
-  "entry": null,
-  "shares": null,
-  "exit_date": "2026-11-16",
-  "exit": null,
-  "pnl": null,
-  "exit_rule": "Zombie Cleanup",
-  "setup": "Semi / AI",
-  "notes": "Fill entry/exit prices from brokerage history."
- },
- {
   "id": "rec5ZsL2VRPSxS6pn",
   "ticker": "HUTG",
   "entry_date": null,
@@ -117,19 +91,6 @@
   "notes": ""
  },
  {
-  "id": "recBB8awUdbseJZIb",
-  "ticker": "MU",
-  "entry_date": null,
-  "entry": null,
-  "shares": null,
-  "exit_date": "2026-11-16",
-  "exit": null,
-  "pnl": null,
-  "exit_rule": "Zombie Cleanup",
-  "setup": "Semi / AI",
-  "notes": "Fill entry/exit prices from brokerage history."
- },
- {
   "id": "recBFbyHPFzZY9evV",
   "ticker": "ANET (CDR)",
   "entry_date": null,
@@ -156,19 +117,6 @@
   "notes": "Entry back-calculated from screenshot. UPDATE with actual Nov 16 fill price."
  },
  {
-  "id": "recCtZIPm2zRk9KWc",
-  "ticker": "USAR",
-  "entry_date": null,
-  "entry": null,
-  "shares": null,
-  "exit_date": "2026-11-16",
-  "exit": null,
-  "pnl": null,
-  "exit_rule": "Zombie Cleanup",
-  "setup": "Other",
-  "notes": "Fill entry/exit prices from brokerage history."
- },
- {
   "id": "recD2TzzybfkUttDW",
   "ticker": "NFLX",
   "entry_date": null,
@@ -193,19 +141,6 @@
   "exit_rule": "Zombie Cleanup",
   "setup": "Leveraged ETF",
   "notes": "Entry back-calculated from screenshot. UPDATE with actual Nov 16 fill price."
- },
- {
-  "id": "recGarkqXJJz5I3ij",
-  "ticker": "MP",
-  "entry_date": null,
-  "entry": null,
-  "shares": null,
-  "exit_date": "2026-11-16",
-  "exit": null,
-  "pnl": null,
-  "exit_rule": "Zombie Cleanup",
-  "setup": "Other",
-  "notes": "Fill entry/exit prices from brokerage history."
  },
  {
   "id": "recGdr4RVX0a8m7ds",
@@ -390,19 +325,6 @@
   "notes": "Entry back-calculated from screenshot. UPDATE with actual Nov 16 fill price."
  },
  {
-  "id": "recVh8eAzHYlfHGhg",
-  "ticker": "DRAM",
-  "entry_date": null,
-  "entry": null,
-  "shares": null,
-  "exit_date": "2026-11-16",
-  "exit": null,
-  "pnl": null,
-  "exit_rule": "Zombie Cleanup",
-  "setup": "Semi / AI",
-  "notes": "Fill entry/exit prices from brokerage history."
- },
- {
   "id": "recZ7TxVaWRcdJWbt",
   "ticker": "SOXL",
   "entry_date": null,
@@ -533,19 +455,6 @@
   "notes": "Entry back-calculated from screenshot. UPDATE with actual Nov 16 fill price."
  },
  {
-  "id": "recl4NVpHK5EY76hh",
-  "ticker": "MDA.TO",
-  "entry_date": null,
-  "entry": null,
-  "shares": null,
-  "exit_date": "2026-11-16",
-  "exit": null,
-  "pnl": null,
-  "exit_rule": "Zombie Cleanup",
-  "setup": "Other",
-  "notes": "Fill entry/exit prices from brokerage history."
- },
- {
   "id": "reclwkPN9CsnoZrfu",
   "ticker": "MRV",
   "entry_date": null,
@@ -570,32 +479,6 @@
   "exit_rule": "Zombie Cleanup",
   "setup": "Leveraged ETF",
   "notes": "Entry back-calculated from screenshot. UPDATE with actual Nov 16 fill price."
- },
- {
-  "id": "recpQa61sT7tAz5ok",
-  "ticker": "TQQQ",
-  "entry_date": null,
-  "entry": null,
-  "shares": null,
-  "exit_date": "2026-11-16",
-  "exit": null,
-  "pnl": null,
-  "exit_rule": "Binary Macro Exit",
-  "setup": "Leveraged ETF",
-  "notes": "Fill entry/exit prices from brokerage history."
- },
- {
-  "id": "recqIxpbwHiezrDhZ",
-  "ticker": "SKHY",
-  "entry_date": null,
-  "entry": null,
-  "shares": null,
-  "exit_date": "2026-11-16",
-  "exit": null,
-  "pnl": null,
-  "exit_rule": "Zombie Cleanup",
-  "setup": "Other",
-  "notes": "Fill entry/exit prices from brokerage history."
  },
  {
   "id": "recqdh2aUW5bYQVg7",
@@ -635,19 +518,6 @@
   "exit_rule": "Zombie Cleanup",
   "setup": "Other",
   "notes": ""
- },
- {
-  "id": "recvCIH5PggwnTMA1",
-  "ticker": "MSTE",
-  "entry_date": null,
-  "entry": null,
-  "shares": null,
-  "exit_date": "2026-11-16",
-  "exit": null,
-  "pnl": null,
-  "exit_rule": "Zombie Cleanup",
-  "setup": "Other",
-  "notes": "Fill entry/exit prices from brokerage history."
  },
  {
   "id": "reczI13is1YZWHZD7",
