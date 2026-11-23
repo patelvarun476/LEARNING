@@ -1,0 +1,28 @@
+{
+  "created_by": "trader-exit",
+  "symbol": "NVDL",
+  "side": "buy",
+  "date": "2026-11-23",
+  "setup": "orb",
+  "entry": 16.7,
+  "entry_time": null,
+  "entry_bar": null,
+  "interval": "5m",
+  "opening_range": {
+    "high": 17.02,
+    "low": 15.36,
+    "minutes": 15
+  },
+  "stop": 16.19,
+  "stop_rule": "or_mid",
+  "stop_label": "opening-range midpoint",
+  "target": 17.72,
+  "target_r": 2.0,
+  "target_label": "2R (two times the risk)",
+  "risk_per_share": 0.51,
+  "reward_risk": 2.0,
+  "flat_by": "15:55",
+  "stop_detail": "($17.02 + $15.36) / 2 = $16.19",
+  "created_at": "2026-11-23T20:30:00Z",
+  "note": "A stop is a plan, not a guarantee: a gap or a fast market can fill past it."
+}
